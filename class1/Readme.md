@@ -8,7 +8,7 @@ exercises of class 1
 
 3.Debug for exercise III:
 ![image](https://github.com/fengyihuai/Learn_Python/raw/master/class1/screenshots/III_debug.png)
-3.Result for exercise III:
+  Result for exercise III:
 ![image](https://github.com/fengyihuai/Learn_Python/raw/master/class1/screenshots/III_result.png)
 
 4.Debug for exercise IV:
