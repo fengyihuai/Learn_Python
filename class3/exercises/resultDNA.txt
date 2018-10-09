@@ -1,0 +1,5 @@
+the rate of each nucleobase
+Nbase-A : 0.2%
+Nbase-T : 0.4%
+Nbase-G : 0.3%
+Nbase-C : 0.1%
