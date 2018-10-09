@@ -6,6 +6,7 @@ exercises of class 3
 2.Debug for exercise II:
 ![image](https://github.com/fengyihuai/Learn_Python/raw/master/class3/screenshots/II_debug.png)
   Result for exercise II:
+ 
 ![image](https://github.com/fengyihuai/Learn_Python/raw/master/class3/screenshots/II_result.png)
 
 3.Debug for exercise III:
