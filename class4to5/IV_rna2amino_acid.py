@@ -44,7 +44,7 @@ f.close()
 print(headerline+rna_seq)
 
 # Open for 'w'riting
-f = open('IV_dna2rna.fasta', 'w')
+f = open('amino_acid.fasta', 'w')
 f.write(headerline)
 # Write text to file
 f.write(rna_seq)
