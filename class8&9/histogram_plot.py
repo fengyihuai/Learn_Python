@@ -18,6 +18,7 @@ def file_name(file_dir):
 
 a = file_name('images/自然风光/天空')
 for index in range(len(a)):
+
     plt.figure(index + 1)
     src = Image.open(a[index])
     r, g, b = src.split()
@@ -27,7 +28,7 @@ for index in range(len(a)):
     plt.hist(ag, bins=256, density=1, facecolor='g')
     ab = np.array(b).flatten()
     plt.hist(ab, bins=256, density=1, facecolor='b')
-    plt.show()
+plt.show()
 print()
 # for i in range(len(a)):
 #     src =
