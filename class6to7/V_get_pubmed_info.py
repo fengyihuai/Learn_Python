@@ -28,11 +28,12 @@ def main():
     for uid in uids:
         dic = {'term':uid}
         uinfo = list()
-        # Transform request data(dictionary class) to url encoding
+        # 1. Transform request data(dictionary class) to url encoding
         data = parse.urlencode(dic)
-        # 1. get source code of this html
+        # 2. get source code of this html
         url = 'http://www.ncbi.nlm.nih.gov/pubmed?'+data
         print('Website is: '+url)
+        html = getHtmlText(url)
         # 3. parsing source code of html
         rehtml(uinfo, html)
         print("Title is:" + uinfo[-2])
