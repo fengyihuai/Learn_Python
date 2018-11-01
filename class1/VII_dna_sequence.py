@@ -4,14 +4,14 @@
 # from random import choice
 import random
 
-def DNAString(length):
+def dna_string(length):
     DNA = ""
     for count in range(length):
         # DNA += choice("CGTA")
         DNA += random.choice("CGTA")
     return DNA
 
-def DNAString2(length):
+def dna_string2(length):
     DNA = ""
     for inum in range(0,4):
         t = random.randint(1,4)
@@ -25,20 +25,21 @@ def DNAString2(length):
             DNA += 'A'
     return DNA
 
-num_seq = 20
-dna_str = DNAString(num_seq)
-print('DNA Sequence:',dna_str)
-list_DNA = ['C', 'G', 'T', 'A']
+seq_length = 20
+dna_str = dna_string(seq_length)
+print('DNA Sequence:', dna_str)
+base_list = ['C', 'G', 'T', 'A']
+# list_DNA = "CGTA"
 num_DNA = [0, 0, 0, 0]
-i = 0;
+index = 0
 for s in 'CGTA':
-    num_DNA[i] = dna_str.count(s)
-    i += 1
+    num_DNA[index] = dna_str.count(s)
+    index += 1
 
-max_dna_str = list_DNA[num_DNA.index(max(num_DNA))]
+max_dna_str = base_list[num_DNA.index(max(num_DNA))]
 
-for i in range(0, 4):
-    print('number of {} is {}'.format(list_DNA[i], num_DNA[i]))
+for index in range(0, 4):
+    print('number of {} is {}'.format(base_list[index], num_DNA[index]))
 print('\nThe maximum is {}'.format(max_dna_str))
 
 print()

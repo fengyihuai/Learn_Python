@@ -2,7 +2,7 @@
 # 5.一球从100米高度自由落下，每次落地后反跳回原高度的一半，
 # 再落下。求它在第n次落地时，共经过多少米？
 
-# strategy A
+# solution A
 n = int(input('The n_th time the ball landed，n='))
 Sn = 100.0  # The road passed on the first landing
 Hn = Sn / 2 # The road passed on the second landing
@@ -15,7 +15,7 @@ if n != 1:
 
 print('Total of road is %0.2f m' % Sn)
 
-# strategy B
+# solution B
 print()
 num_v = int(input('The n_th time the ball landed，n='))
 num191 = 100

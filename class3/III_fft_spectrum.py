@@ -33,10 +33,10 @@ idx = np.argsort(freqs)
 plt.figure(1)
 plt.subplot(1, 2, 2)
 fidx = idx[len(idx) // 2:]
-plt.plot(freqs[fidx], ps[fidx], 'red')
+# plt.plot(freqs[fidx], ps[fidx], 'red')
+plt.plot(freqs[:len(freqs) // 2], ps[:len(freqs) // 2], 'red')
 plt.xlabel('frequency(Hz)')
 plt.ylabel('ampliitude(n.d.)')
 plt.show()
 # close all figures in pylab
 # plt.close("all")
-

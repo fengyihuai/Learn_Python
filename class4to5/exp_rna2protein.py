@@ -1,8 +1,8 @@
-
+# -*- coding:UTF-8 -*-
 # https://www.biostars.org/p/2903/
 
 with open ("p:/dna.txt", "r") as myfile:
-    data=myfile.readlines()
+    data = myfile.readlines()
 
 map = {"UUU":"F", "UUC":"F", "UUA":"L", "UUG":"L",
     "UCU":"S", "UCC":"s", "UCA":"S", "UCG":"S",
