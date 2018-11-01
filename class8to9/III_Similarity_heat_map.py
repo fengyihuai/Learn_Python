@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+# 3、绘制两组图片相似度的热图。
 from matplotlib import pyplot as plt
 import numpy as np
 from pandas import DataFrame
