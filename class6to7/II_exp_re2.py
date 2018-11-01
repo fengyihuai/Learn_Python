@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+# 2、用给定的模式拆分并替换文本；
 import re
 
 separator = re.compile('\|')

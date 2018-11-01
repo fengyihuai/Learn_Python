@@ -1,4 +1,5 @@
 # -*- coding:UTF-8 -*-
+# 5、比较不同版本的UniProt数据库文件的差异。
 
 f1 = open('list_new.txt', 'r')
 new_str = f1.read()

@@ -1,4 +1,6 @@
 # -*- coding:UTF-8 -*-
+# 3、在基因组序列(genome.txt)中找到转录因子
+# 结合位点(TFBS.txt) ；
 '''In this example, the 'TFBS.txt' file contains this list of TFBSs, and
 the 'genome.txt' file contains the sequence in FASTA format of, e.g.,
 a whole chromosome of a eukaryotic organism of your choice.'''

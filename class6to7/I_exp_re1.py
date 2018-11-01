@@ -1,4 +1,6 @@
 # -*- coding:UTF-8 -*-
+# 1、在氨基酸序列中查找给定的模式，并全部输出；
+
 import re
 
 pattern = re.compile('R.[ST][^P]')
