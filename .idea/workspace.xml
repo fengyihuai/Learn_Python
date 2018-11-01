@@ -3,14 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="192ef6ef-138b-4160-85f8-850868831bb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class1/III_star_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/class1/III_star_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class1/IV_min3_narcissistic_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/class1/IV_min3_narcissistic_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class1/VII_dna_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/class1/VII_dna_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class1/V_falling_ball_qt.py" beforeDir="false" afterPath="$PROJECT_DIR$/class1/V_falling_ball_qt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class3/III_fft_spectrum.py" beforeDir="false" afterPath="$PROJECT_DIR$/class3/III_fft_spectrum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class3/II_turtle_prog_hist.py" beforeDir="false" afterPath="$PROJECT_DIR$/class3/II_turtle_prog_hist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class3/I_dir_gain.py" beforeDir="false" afterPath="$PROJECT_DIR$/class3/I_dir_gain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class4to5/exp_rna2protein.py" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/exp_rna2protein.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/Filtered_SwissPortSeq.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/III_GBtoFasta.py" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/III_GBtoFasta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/II_fasta_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/II_fasta_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/output.fasta" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/output.fasta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/randomDNA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/randomDNA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4to5/resultDNA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/resultDNA.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,32 +25,36 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4664" />
+          <entry key="Python Console" value="4724" />
           <entry key="dummy" value="39" />
-          <entry key="py" value="1869" />
-          <entry key="txt" value="109" />
+          <entry key="py" value="2346" />
+          <entry key="txt" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="148" />
-          <entry key="Python" value="6533" />
+          <entry key="PLAIN_TEXT" value="183" />
+          <entry key="Python" value="7070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="27" />
+          <entry key="fasta" value="1" />
+          <entry key="gb" value="1" />
+          <entry key="py" value="30" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="27" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
     </session>
@@ -59,19 +62,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class4to5/exp_rna2protein.py">
+        <entry file="file://$PROJECT_DIR$/class4to5/III_GBtoFasta.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" lean-forward="true" selection-end-column="22" />
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -107,6 +101,9 @@
         <option value="$PROJECT_DIR$/class3/I_dir_gain.py" />
         <option value="$PROJECT_DIR$/class3/III_fft_spectrum.py" />
         <option value="$PROJECT_DIR$/class4to5/exp_rna2protein.py" />
+        <option value="$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py" />
+        <option value="$PROJECT_DIR$/class4to5/II_fasta_info.py" />
+        <option value="$PROJECT_DIR$/class4to5/III_GBtoFasta.py" />
       </list>
     </option>
   </component>
@@ -120,6 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,17 +131,10 @@
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
               <item name="class4to5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class8&amp;9" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +157,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.III_fft_spectrum">
+  <component name="RunManager" selected="Python.III_GBtoFasta">
+    <configuration name="III_GBtoFasta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Learn_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/III_GBtoFasta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="III_fft_spectrum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="II_turtle_prog_hist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="II_fasta_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class3/II_turtle_prog_hist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/II_fasta_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VII_dna_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="I_dnafile_wrtie" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,32 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class1/VII_dna_sequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="VI_multiplication_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Learn_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class1/VI_multiplication_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,19 +264,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.VI_multiplication_table" />
-      <item itemvalue="Python.VII_dna_sequence" />
-      <item itemvalue="Python.II_turtle_prog_hist" />
       <item itemvalue="Python.I_dir_gain" />
       <item itemvalue="Python.III_fft_spectrum" />
+      <item itemvalue="Python.I_dnafile_wrtie" />
+      <item itemvalue="Python.II_fasta_info" />
+      <item itemvalue="Python.III_GBtoFasta" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.III_GBtoFasta" />
+        <item itemvalue="Python.II_fasta_info" />
+        <item itemvalue="Python.I_dnafile_wrtie" />
         <item itemvalue="Python.III_fft_spectrum" />
         <item itemvalue="Python.I_dir_gain" />
-        <item itemvalue="Python.II_turtle_prog_hist" />
-        <item itemvalue="Python.VII_dna_sequence" />
-        <item itemvalue="Python.VI_multiplication_table" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540996393156</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="class 1 and 3 - Code optimization">
+      <created>1541081331583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541081331583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -343,13 +342,13 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.2283237" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.23265895" />
       <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.20467421" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858356" visible="true" weight="0.26367462" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.0687237" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858356" weight="0.23842917" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37587658" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
@@ -370,7 +369,8 @@
     <MESSAGE value="fix an error in V_get_pubmed_info.py" />
     <MESSAGE value="add input and output files" />
     <MESSAGE value="rebase class 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="rebase class 1" />
+    <MESSAGE value="class 1 and 3 - Code optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 1 and 3 - Code optimization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -384,6 +384,16 @@
           <url>file://$PROJECT_DIR$/class3/III_fft_spectrum.py</url>
           <line>29</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class4to5/II_fasta_info.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class4to5/III_GBtoFasta.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -545,17 +555,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py">
+    <entry file="file://$PROJECT_DIR$/class4to5/Target_SwissPortSeq.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="22" lean-forward="true" selection-end-column="22" />
+          <caret column="29" selection-start-column="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/IDofSwissProtSeq.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/II_fasta_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="56" selection-start-line="56" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+          <folding>
+            <element signature="e#50#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class4to5/exp_rna2protein.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="28">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/resultDNA.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/SwissProtSeq.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/AY810830.gb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="320" column="18" selection-start-line="320" selection-start-column="18" selection-end-line="320" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/III_GBtoFasta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>

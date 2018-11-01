@@ -30,14 +30,19 @@ dna_s = f.read()
 print(dna_s)
 
 index = 0
-num = [0, 0, 0, 0]
-nbase_rate = [0, 0, 0, 0]
+num = list()
+nbase_rate = list()
+# num = [0, 0, 0, 0]
+# nbase_rate = [0, 0, 0, 0]
 for dna_a in alphabet:
-     num[index] = dna_s.count(dna_a)
-     nbase_rate[index] = num[index]/len(dna_s)
+     # num[index] = dna_s.count(dna_a)
+     # nbase_rate[index] = num[index]/len(dna_s)
+     num.append(dna_s.count(dna_a))
+     nbase_rate.append(num[index]/len(dna_s))
      index += 1
 
-# max_nbase = alphabet[num.index(max(num))]
+# # max_nbase = alphabet[num.index(max(num))]
+# construct the text of the rate of each base pair
 result = 'the rate of each nucleobase'
 for index in range(len(alphabet)):
     result += '\nNbase-'
@@ -52,4 +57,3 @@ f = open('resultDNA.txt', 'w')
 f.write(result)
 # Close the file
 f.close()
-

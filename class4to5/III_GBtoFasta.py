@@ -1,11 +1,11 @@
 # -*- coding:UTF-8 -*-
 
 f = open('AY810830.gb', 'r')
+# check = f.readlines()
 mark = "ACCESSION"
 DNA_M = "ORIGIN"
 flag = False
 dna_seq = list()
-
 for line in f:
     if flag == False:
         if mark in line:
