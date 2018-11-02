@@ -1,4 +1,6 @@
 # -*- coding:UTF-8 -*-
+# 1、从指定的网站下载‘自然风光’页内的‘天空’类的图片，
+# 并保存到源程序所在的文件夹；网址：
 # waiting for perfection
 import requests
 from lxml import etree
@@ -47,21 +49,16 @@ if not sub2_url.startswith("http"):
     print(sub2_url)
 
 # save pictures
-# 建立图片文件夹，如果路径对应的文件夹不存在，（目的防止出现“文件夹已存在，创建失败”）
 path = "images/" + sub1_title + "/" +sub2_title
-pathHD = "images/" + sub1_title + "/" +sub2_title + "HD"
-
+# 建立图片文件夹，如果路径对应的文件夹不存在，
+# （目的防止出现“文件夹已存在，创建失败”）
 if not os.path.exists(path):
     os.makedirs(path)
-
-if not os.path.exists(pathHD):
-    os.makedirs(pathHD)
 
 sub2_response = requests.get(sub2_url)
 sub2_root = etree.HTML(sub2_response.content)
 
 img_list = sub2_root.xpath("//ul[@class='pli']/li/div/a/img")
-imgHD_list = sub2_root.xpath("//ul[@class='pli']/li/div/a")
 
 for idx, img in enumerate(img_list):
     src = img.xpath("@src")[0]
@@ -72,20 +69,29 @@ for idx, img in enumerate(img_list):
     f.write(img_response.content)
     f.close()
 
-for idx, imgHD in enumerate(imgHD_list):
-    srcHD_url = imgHD.xpath("@href")[0]
-    srcHD_url = imgHD_list[0].xpath("@href")[0]
-    if not srcHD_url.startswith("http"):
-        srcHD_url = "http://www.ivsky.com" + srcHD_url
-        print("solved picture:\n" + srcHD_url)
-    srcHD_response = requests.get(srcHD_url)
-    srcHD_root = etree.HTML(srcHD_response.content)
-    srcHD_a_list = srcHD_root.xpath("//*[@id='imgis']")
-    srcHD = srcHD_a_list[0].xpath("@src")[0]
-
-    imgHD_response = requests.get(srcHD)
-    # The form to name a picture document：
-    name = srcHD_a_list[0].xpath("@alt")[0] + "-" + str(idx) + "HD.jpg"
-    f = open(pathHD + "/" + name, "wb")
-    f.write(imgHD_response.content)
-    f.close()
+# # --------------------------------------------
+# # To get the images of high density
+# pathHD = "images/" + sub1_title + "/" +sub2_title + "HD"
+#
+# if not os.path.exists(pathHD):
+#     os.makedirs(pathHD)
+#
+# imgHD_list = sub2_root.xpath("//ul[@class='pli']/li/div/a")
+#
+# for idx, imgHD in enumerate(imgHD_list):
+#     srcHD_url = imgHD.xpath("@href")[0]
+#     srcHD_url = imgHD_list[0].xpath("@href")[0]
+#     if not srcHD_url.startswith("http"):
+#         srcHD_url = "http://www.ivsky.com" + srcHD_url
+#         print("solved picture:\n" + srcHD_url)
+#     srcHD_response = requests.get(srcHD_url)
+#     srcHD_root = etree.HTML(srcHD_response.content)
+#     srcHD_a_list = srcHD_root.xpath("//*[@id='imgis']")
+#     srcHD = srcHD_a_list[0].xpath("@src")[0]
+#
+#     imgHD_response = requests.get(srcHD)
+#     # The form to name a picture document：
+#     name = srcHD_a_list[0].xpath("@alt")[0] + "-" + str(idx) + "HD.jpg"
+#     f = open(pathHD + "/" + name, "wb")
+#     f.write(imgHD_response.content)
+#     f.close()

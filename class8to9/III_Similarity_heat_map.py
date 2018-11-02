@@ -11,7 +11,7 @@ def plotfuc(idx, col, file):
     dfdata = np.reshape(dfdata, (len(col), len(idx)))
 
     # dataframe实例初始化
-    df = DataFrame(dfdata, columns=col, index=idx)
+    df = DataFrame(dfdata, columns = col, index = idx)
 
     # pcolor传入绘图数据，cmap指定绘图颜色，比如Blues，Greens
     plt.pcolor(df, cmap = plt.cm.Greens, edgecolors = 'white')

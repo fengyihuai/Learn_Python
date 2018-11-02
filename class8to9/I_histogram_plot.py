@@ -22,12 +22,13 @@ for index in range(len(a)):
     plt.figure(index + 1)
     src = Image.open(a[index])
     r, g, b = src.split()
+
     ar = np.array(r).flatten()
-    plt.hist(ar, bins = 256, density=1, facecolor='r')
+    plt.hist(ar, bins = 256, density = 1, facecolor='r')
     ag = np.array(g).flatten()
-    plt.hist(ag, bins=256, density=1, facecolor='g')
+    plt.hist(ag, bins=256, density = 1, facecolor='g')
     ab = np.array(b).flatten()
-    plt.hist(ab, bins=256, density=1, facecolor='b')
+    plt.hist(ab, bins=256, density = 1, facecolor='b')
 plt.show()
 print()
 # for i in range(len(a)):

@@ -10,7 +10,7 @@ genome_seq = open('genome.txt').read()
 # delete the '\n' in genome_seq
 genome_seq = genome_seq.replace('\n', '')
 # read transcription factor binding site patterns
-sites = []
+sites = list()
 for line in open('TFBS.txt'):
   fields = line.split()
   tf = fields[0]
@@ -20,9 +20,10 @@ for line in open('TFBS.txt'):
 # match all TF's to the genome and print matches
 for tf, site in sites:
     tfbs_regexp = re.compile(site)
-    all_matches = tfbs_regexp.findall(genome_seq)
+    match_flag = tfbs_regexp.findall(genome_seq)
     matches = tfbs_regexp.finditer(genome_seq)
-    if all_matches:
+    # if the match_flag is empty(null), ignore the post procedures
+    if match_flag:
         print(tf+':')
         for tfbs in matches:
             print('\t', tfbs.group(), tfbs.start(), tfbs.end())

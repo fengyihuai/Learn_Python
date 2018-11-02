@@ -3,9 +3,88 @@
   <component name="ChangeListManager">
     <list default="true" id="192ef6ef-138b-4160-85f8-850868831bb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class6to7/III_search_genome.py" beforeDir="false" afterPath="$PROJECT_DIR$/class6to7/III_search_genome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/I_histogram_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8to9/I_histogram_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-0HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-10HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-11HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-12HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-13HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-14HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-15HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-16HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-17HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-18HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-19HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-1HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-2HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-3HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-4HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-5HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-6HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-7HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-8HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-9HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-0HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-10HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-11HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-12HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-13HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-14HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-15HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-16HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-17HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-18HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-19HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-1HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-2HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-3HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-4HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-5HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-6HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-7HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-8HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-9HD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class8to9/pictures_lxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8to9/pictures_lxml.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +96,7 @@
     <session id="1612902912">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -27,30 +106,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="5151" />
+          <entry key="Python Console" value="5267" />
           <entry key="dummy" value="39" />
-          <entry key="py" value="2601" />
-          <entry key="txt" value="165" />
+          <entry key="py" value="2936" />
+          <entry key="txt" value="167" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="204" />
-          <entry key="Python" value="7752" />
+          <entry key="PLAIN_TEXT" value="206" />
+          <entry key="Python" value="8203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="fasta" value="8" />
           <entry key="gb" value="3" />
-          <entry key="py" value="41" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="49" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="41" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="49" />
         </counts>
       </usages-collector>
     </session>
@@ -58,56 +137,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class6to7/I_exp_re1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/class8to9/1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class6to7/II_exp_re2.py">
+        <entry file="file://$PROJECT_DIR$/class8to9/I_histogram_plot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="198">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#46#67#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class6to7/III_search_genome.py">
+        <entry file="file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="457">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#41#77#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class4to5/list_new.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class4to5/list_old.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py">
+        <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+              <folding>
+                <element signature="e#99#114#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" />
         <option value="$PROJECT_DIR$/byte_of_python/inputandoput/io_using_file.py" />
         <option value="$PROJECT_DIR$/byte_of_python/inputandoput/io_pickle.py" />
         <option value="$PROJECT_DIR$/byte_of_python/inputandoput/exp_open.py" />
@@ -149,6 +213,10 @@
         <option value="$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py" />
         <option value="$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py" />
         <option value="$PROJECT_DIR$/class6to7/III_search_genome.py" />
+        <option value="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" />
+        <option value="$PROJECT_DIR$/class8to9/pictures_lxml.py" />
+        <option value="$PROJECT_DIR$/class8to9/I_histogram_plot.py" />
+        <option value="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" />
       </list>
     </option>
   </component>
@@ -181,6 +249,19 @@
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
               <item name="class8to9" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="class8to9" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="class8to9" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="自然风光" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.V_diff_UniPOrt">
-    <configuration name="III_GBtoFasta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.III_Similarity_heat_map">
+    <configuration name="III_Similarity_heat_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8to9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/III_GBtoFasta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="II_fasta_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="III_search_genome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +318,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class6to7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/II_fasta_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class6to7/III_search_genome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IV_rna2amino_acid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="I_histogram_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +339,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8to9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8to9/I_histogram_plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="I_dnafile_wrtie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="V_get_pubmed_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +360,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class6to7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/I_dnafile_wrtie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="V_diff_UniPOrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pictures_lxml" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,11 +381,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class4to5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class8to9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class8to9/pictures_lxml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,19 +395,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.I_dnafile_wrtie" />
-      <item itemvalue="Python.II_fasta_info" />
-      <item itemvalue="Python.III_GBtoFasta" />
-      <item itemvalue="Python.IV_rna2amino_acid" />
-      <item itemvalue="Python.V_diff_UniPOrt" />
+      <item itemvalue="Python.III_search_genome" />
+      <item itemvalue="Python.V_get_pubmed_info" />
+      <item itemvalue="Python.pictures_lxml" />
+      <item itemvalue="Python.I_histogram_plot" />
+      <item itemvalue="Python.III_Similarity_heat_map" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.V_diff_UniPOrt" />
-        <item itemvalue="Python.IV_rna2amino_acid" />
-        <item itemvalue="Python.III_GBtoFasta" />
-        <item itemvalue="Python.II_fasta_info" />
-        <item itemvalue="Python.I_dnafile_wrtie" />
+        <item itemvalue="Python.III_Similarity_heat_map" />
+        <item itemvalue="Python.I_histogram_plot" />
+        <item itemvalue="Python.pictures_lxml" />
+        <item itemvalue="Python.V_get_pubmed_info" />
+        <item itemvalue="Python.III_search_genome" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541083944278</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="class 4&amp;5 - Code optimization no.3">
+      <created>1541133974533</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541133974533</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -404,21 +492,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.23699422" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.23699422" />
       <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.20467421" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858356" visible="true" weight="0.23842917" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.035063114" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49783236" weight="0.16690043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34221599" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32959327" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.27349228" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50141644" side_tool="true" weight="0.29593268" />
-      <window_info anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="9" weight="0.24123423" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50216764" side_tool="true" weight="0.21598879" />
+      <window_info anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="9" weight="0.14305751" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -436,7 +523,8 @@
     <MESSAGE value="class 1 and 3 - Code optimization" />
     <MESSAGE value="class 4&amp;5 - Code optimization no.1" />
     <MESSAGE value="class 4&amp;5 - Code optimization no.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 4&amp;5 - Code optimization no.2" />
+    <MESSAGE value="class 4&amp;5 - Code optimization no.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 4&amp;5 - Code optimization no.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -462,11 +550,6 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py</url>
           <line>40</line>
           <option name="timeStamp" value="14" />
@@ -475,6 +558,31 @@
           <url>file://$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py</url>
           <line>4</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class6to7/III_search_genome.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class8to9/pictures_lxml.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class8to9/I_histogram_plot.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -550,13 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="80" column="15" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class6to7/V_get_pubmed_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -699,16 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="e#41#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class4to5/III_GBtoFasta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -739,17 +830,34 @@
     <entry file="file://$PROJECT_DIR$/class4to5/list_old.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py">
+    <entry file="file://$PROJECT_DIR$/class6to7/II_exp_re2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="91">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py">
+    <entry file="file://$PROJECT_DIR$/class6to7/III_search_genome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="196">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class6to7/IV_get_url_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#43#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/IV_rna2amino_acid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
@@ -760,17 +868,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class6to7/II_exp_re2.py">
+    <entry file="file://$PROJECT_DIR$/class6to7/genome.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class6to7/III_search_genome.py">
+    <entry file="file://$PROJECT_DIR$/class6to7/TFBS.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class4to5/V_diff_UniPOrt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class6to7/V_get_pubmed_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#149#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1432">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="e#99#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/I_histogram_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#46#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#41#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

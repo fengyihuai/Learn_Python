@@ -44,6 +44,4 @@ def main():
         print("Abstract is:" + uinfo[-1])
 
 if __name__ == '__main__':
-    # matches = [r'<h1>.*</h1>', r'<h3>Abstract</h3>.*</p></div>']
-    # main(matches)
     main()
