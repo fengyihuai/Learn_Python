@@ -1,4 +1,6 @@
 # -*- coding:UTF-8 -*-
+# 4、读取Fasta文件的RNA序列，并将每三个字符翻译
+# 替换为一个对应的氨基酸，并打印在屏幕上；
 
 condon_label = {"UUU":"F", "UUC":"F", "UUA":"L", "UUG":"L",
     "UCU":"S", "UCC":"s", "UCA":"S", "UCG":"S",

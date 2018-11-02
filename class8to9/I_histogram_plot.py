@@ -1,5 +1,5 @@
 # -*- coding:UTF-8 -*-
-
+# 1、计算已下载天空图片的直方图并可视化；
 from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt

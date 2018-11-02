@@ -1,4 +1,7 @@
 # -*- coding:UTF-8 -*-
+# 5、从PubMed的HTML页面上提取标题和摘要文本。
+#     http://www.ncbi.nlm.nih.gov/pubmed?
+#     '18235848', '22607149', '22405002', '21630672'
 from urllib import parse
 import requests
 import re

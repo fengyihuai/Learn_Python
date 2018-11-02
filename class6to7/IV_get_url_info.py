@@ -1,5 +1,5 @@
 # -*- coding:UTF-8 -*-
-from urllib import request
+# 4、从南医大图书馆网页爬取信息。
 
 import requests
 import re
