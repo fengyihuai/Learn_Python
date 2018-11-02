@@ -2,89 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="192ef6ef-138b-4160-85f8-850868831bb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_exam/English.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_exam/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_exam/zouwenbin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learn_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn_Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class6to7/III_search_genome.py" beforeDir="false" afterPath="$PROJECT_DIR$/class6to7/III_search_genome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/class6to7/V_get_pubmed_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/I_histogram_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8to9/I_histogram_plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空中的白云图片-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/天空的白云图片-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空/绚丽的彩虹图片-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-0HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-10HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-11HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-12HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-13HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-14HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-15HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-16HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-17HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-18HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-19HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-1HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-2HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-3HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-4HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-5HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-6HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-7HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-8HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/天空中的白云图片-9HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-0HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-10HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-11HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-12HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-13HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-14HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-15HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-16HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-17HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-18HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-19HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-1HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-2HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-3HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-4HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-5HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-6HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-7HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-8HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/images/自然风光/天空HD/绚丽的彩虹图片-9HD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class8to9/pictures_lxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/class8to9/pictures_lxml.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,12 +18,12 @@
     <session id="1612902912">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -109,12 +31,12 @@
           <entry key="Python Console" value="5267" />
           <entry key="dummy" value="39" />
           <entry key="py" value="2936" />
-          <entry key="txt" value="167" />
+          <entry key="txt" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="206" />
+          <entry key="PLAIN_TEXT" value="215" />
           <entry key="Python" value="8203" />
         </counts>
       </usages-collector>
@@ -122,14 +44,14 @@
         <counts>
           <entry key="fasta" value="8" />
           <entry key="gb" value="3" />
-          <entry key="py" value="49" />
-          <entry key="txt" value="9" />
+          <entry key="py" value="51" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="49" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="51" />
         </counts>
       </usages-collector>
     </session>
@@ -137,27 +59,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class8to9/1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class8to9/I_histogram_plot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#46#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state>
+              <caret selection-end-column="22" />
               <folding>
                 <element signature="e#41#77#0" expanded="true" />
               </folding>
@@ -165,14 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_exam/zouwenbin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-              <folding>
-                <element signature="e#99#114#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -217,6 +119,7 @@
         <option value="$PROJECT_DIR$/class8to9/pictures_lxml.py" />
         <option value="$PROJECT_DIR$/class8to9/I_histogram_plot.py" />
         <option value="$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py" />
+        <option value="$PROJECT_DIR$/python_exam/zouwenbin.py" />
       </list>
     </option>
   </component>
@@ -231,18 +134,12 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class6to7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -262,16 +159,26 @@
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="自然风光" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="python_exam" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonLearing\Learn_Python\python_exam" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PythonLearing\Learn_Python\class3" />
     </key>
@@ -478,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541133974533</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="class 8to9 - Code optimization no.1">
+      <created>1541139680213</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1541139680213</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -492,8 +406,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.23699422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.20467421" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -524,7 +439,8 @@
     <MESSAGE value="class 4&amp;5 - Code optimization no.1" />
     <MESSAGE value="class 4&amp;5 - Code optimization no.2" />
     <MESSAGE value="class 4&amp;5 - Code optimization no.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 4&amp;5 - Code optimization no.3" />
+    <MESSAGE value="class 8to9 - Code optimization no.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 8to9 - Code optimization no.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -588,20 +504,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/569014005/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="428" selection-start-line="428" selection-end-line="428" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/byte_of_python/inputandoput/exp_open.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/byte_of_python/inputandoput/io_pickle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -848,9 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-238">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#43#58#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -889,9 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="868">
           <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <element signature="e#149#173#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -902,17 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-          <folding>
-            <element signature="e#99#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class8to9/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_exam/English.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/class8to9/1.txt">
@@ -920,7 +809,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class8to9/I_histogram_plot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="597">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#46#67#0" expanded="true" />
@@ -928,13 +817,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="e#99#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/class8to9/III_Similarity_heat_map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state>
+          <caret selection-end-column="22" />
           <folding>
             <element signature="e#41#77#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_exam/zouwenbin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
