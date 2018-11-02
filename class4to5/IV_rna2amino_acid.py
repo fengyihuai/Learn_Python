@@ -20,7 +20,7 @@ condon_label = {"UUU":"F", "UUC":"F", "UUA":"L", "UUG":"L",
     "GGU":"G", "GGC":"G", "GGA":"G", "GGG":"G",}
 
 f = open('A06662-RNA.fasta', 'r')
-rna_line = list()
+amino_list = list()
 line_list = list()
 i = 0
 for line in f:
@@ -32,16 +32,16 @@ line_str = "".join(line_list)
 
 for index in range(0, len(line_str), 3):
     # line[index:index+3]
-    dict_key = "".join(line_str[index:index+3])
-    rp_key = condon_label[dict_key]
-    if rp_key == "STOP":
-        rp_key = '*'
-    rna_line.append(rp_key)
+    rna_key = "".join(line_str[index:index + 3])
+    amino_key = condon_label[rna_key]
+    if amino_key == "STOP":
+        amino_key = '*'
+    amino_list.append(amino_key)
 # insert the '\n' in the step of 60 alphabets
 raw_step = 60
-for index in range(raw_step, raw_step*len(rna_line)//raw_step, raw_step):
-    rna_line.insert(index, '\n')
-rna_seq = "".join(rna_line)
+for index in range(raw_step, raw_step * len(amino_list) // raw_step, raw_step):
+    amino_list.insert(index, '\n')
+rna_seq = "".join(amino_list)
 f.close()
 print(headerline+rna_seq)
 
