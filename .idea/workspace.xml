@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="class 8&amp;9">
-      <change afterPath="$PROJECT_DIR$/course_project/arxiv_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learn_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn_Python.iml" afterDir="false" />
+    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,22 +49,23 @@
     <session id="1614151658">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="36" />
-          <entry key="py" value="251" />
-          <entry key="txt" value="16" />
+          <entry key="Python Console" value="108" />
+          <entry key="py" value="275" />
+          <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="287" />
+          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="Python" value="383" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,11 +85,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="295">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <element signature="e#131#140#0" expanded="true" />
-                <marker date="1541178735662" expanded="true" signature="185:471" ph="..." />
+                <marker date="1541178946599" expanded="true" signature="185:485" ph="..." />
               </folding>
             </state>
           </provider>
@@ -108,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="234">
               <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="28" />
               <folding>
                 <element signature="e#99#114#0" expanded="true" />
@@ -182,7 +180,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -356,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540993728347</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add course_project">
+      <created>1541178974825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541178974825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -369,14 +374,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858356" weight="0.29432014" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39931154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39931154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.27349228" />
       <window_info anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="8" sideWeight="0.49925262" weight="0.32874355" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007474" side_tool="true" weight="0.29432014" />
-      <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Python Console" order="10" type="WINDOWED" visible="true" weight="0.32013768" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Python Console" order="10" type="WINDOWED" weight="0.32013768" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -389,7 +394,8 @@
     <MESSAGE value="fix error successfully" />
     <MESSAGE value="fix an error in V_get_pubmed_info.py" />
     <MESSAGE value="add input and output files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add input and output files" />
+    <MESSAGE value="add course_project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add course_project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -487,10 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#46#67#0" expanded="true" />
-            <marker date="1541172022467" expanded="true" signature="154:159" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,10 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding>
-            <marker date="1541172022467" expanded="true" signature="155:658" ph="..." />
-            <marker date="1541172022467" expanded="true" signature="674:771" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,12 +541,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
+    <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="295">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
-            <element signature="e#99#114#0" expanded="true" />
+            <marker date="1541178946599" expanded="true" signature="185:485" ph="..." />
           </folding>
         </state>
       </provider>
@@ -560,13 +558,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
+    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="234">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="28" />
           <folding>
-            <element signature="e#131#140#0" expanded="true" />
-            <marker date="1541178735662" expanded="true" signature="185:471" ph="..." />
+            <element signature="e#99#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
