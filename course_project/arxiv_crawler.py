@@ -88,7 +88,7 @@ def arxiv_description(url):
         info.append(re.findall(pattern_list[i + 1], r.text.replace('\n', '*'))[0])
         info.append(url + re.findall(pattern_list[i + 2], r.text)[0])
 
-        print("\nArticle address:", url)
+        print("\n>>>Article address:", url)
         for i in range(len(pattern_list)):
             print(pattern_lable[i], ':', info[i])
 
