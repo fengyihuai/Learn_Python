@@ -69,10 +69,28 @@ def read_match_urltxt(file_name1, file_name2):
 def arxiv_description(url):
     try:
         r = requests.get(url)
-        title = re.findall(u"Title</span>(.*)</h1>", r.text)
-        authors = re.findall(u"Authors</span>(.*)</h1>", r.text)
-        dateline = findall(u"class=\"dateline\">((.*))</div>", r.text)
-        abstract = re.findall(u"Abstract</span>(.*)</h1>", r.text)
+        pattern_list = [r"Title:</span>(.*)</h1>",
+                        r"Authors:</span><a.*>(.*)</a>",
+                        r"class=\"dateline\">\((.*)\)</div>",
+                        r"<td class=\"tablecell comments mathjax\">(.*)</td>",
+                        r"<span class=\"primary-subject\">(.*)</span>(.*)</td>",
+                        r"arXiv:[\w\.]+</a>.*</td>",
+                        r"arXiv:[\w\.]+</a>.*</span>",
+                        r"Abstract:</span>(.*)</blockquote>",
+                        r"<a href=\"(.*)\"\saccesskey=\"f\""]
+        pattern_lable = ["Title", "Authors", "Dateline", "Comments",
+                         "Subjects", "Cite as", "or Cite as",
+                         "Abstract", "PDF-link"]
+
+        info = list()
+        for i in range(len(pattern_list) - 2):
+            info.append(re.findall(pattern_list[i], r.text)[0])
+        info.append(re.findall(pattern_list[i + 1], r.text.replace('\n', '*'))[0])
+        info.append(url + re.findall(pattern_list[i + 2], r.text)[0])
+
+        print("\nArticle address:", url)
+        for i in range(len(pattern_list)):
+            print(pattern_lable[i], ':', info[i])
 
     except:
         return ""
@@ -89,29 +107,31 @@ def main():
     same_urllist = read_match_urltxt("electroencephalogram.txt", "event-related potential.txt")
     print("the same urls are:\n{}".format('\n'.join(same_urllist)))
 
-    k1s2_adurl = key_size_search(uid[0], 100, printed=True, print_num=50)
+    # k1s2_adurl = key_size_search(uid[0], 100, printed=True, print_num=50)
+    for i in range(3):
+        arxiv_description(k1s2_adurl[i])
 
-    r = requests.get(k1s2_adurl[0])
-    pattern_list = [r"Title:</span>(.*)</h1>",
-                    r"Authors:</span><a.*>(.*)</a>",
-                    r"class=\"dateline\">\((.*)\)</div>",
-                    r"<td class=\"tablecell comments mathjax\">(.*)</td>",
-                    r"<span class=\"primary-subject\">(.*)</span>(.*)</td>",
-                    r"<td class=\"tablecell arxivid\">(.*)</td>",
-                    r"<td class=\"tablecell arxividv\">(.*)</td>",
-                    r"Abstract:</span>(.*)</blockquote>",
-                    r"<a href=\"(.*)\"\saccesskey=\"f\""]
-    pattern_lable = ["Title", "Authors", "Dateline", "Comments",
-                     "Subjects", "Cite as", "Cite as",
-                     "Abstract", "PDF-link"]
-
-    info = list()
-    for i in range(len(pattern_list)-2):
-        info.append(re.findall(pattern_list[i], r.text)[0])
-    info.append(re.findall(pattern_list[i+1], r.text.replace('\n', '*'))[0])
-    info.append(k1s2_adurl[0] + re.findall(pattern_list[i+2], r.text)[0])
-    for i in range(len(pattern_list)):
-        print(pattern_lable[i], ':' , info[i])
+    # r = requests.get(k1s2_adurl[0])
+    # pattern_list = [r"Title:</span>(.*)</h1>",
+    #                 r"Authors:</span><a.*>(.*)</a>",
+    #                 r"class=\"dateline\">\((.*)\)</div>",
+    #                 r"<td class=\"tablecell comments mathjax\">(.*)</td>",
+    #                 r"<span class=\"primary-subject\">(.*)</span>(.*)</td>",
+    #                 r"arXiv:[\w\.]+</a>.*</td>",
+    #                 r"arXiv:[\w\.]+</a>.*</span>",
+    #                 r"Abstract:</span>(.*)</blockquote>",
+    #                 r"<a href=\"(.*)\"\saccesskey=\"f\""]
+    # pattern_lable = ["Title", "Authors", "Dateline", "Comments",
+    #                  "Subjects", "Cite as", "or Cite as",
+    #                  "Abstract", "PDF-link"]
+    #
+    # info = list()
+    # for i in range(len(pattern_list)-2):
+    #     info.append(re.findall(pattern_list[i], r.text)[0])
+    # info.append(re.findall(pattern_list[i+1], r.text.replace('\n', '*'))[0])
+    # info.append(k1s2_adurl[0] + re.findall(pattern_list[i+2], r.text)[0])
+    # for i in range(len(pattern_list)):
+    #     print(pattern_lable[i], ':' , info[i])
 
     # title = re.findall(r"Title:</span>(.*)</h1>", r.text)[0]
     # authors = re.findall(r"Authors:</span><a.*>(.*)</a>", r.text)[0]
