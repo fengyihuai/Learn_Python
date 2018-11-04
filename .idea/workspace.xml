@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_project/arxiv_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_project/arxiv_crawler.py" afterDir="false" />
-    </list>
+    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +48,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="355" />
-          <entry key="py" value="411" />
-          <entry key="txt" value="52" />
+          <entry key="py" value="469" />
+          <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Python" value="766" />
+          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="Python" value="824" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.opened" value="2" />
@@ -72,10 +69,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="4" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
@@ -86,29 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class6to7/IV_get_url_info.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="e#99#114#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="107">
+              <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -164,6 +142,12 @@
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
               <item name="class6to7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="class6to7" type="462c0819:PsiDirectoryNode" />
+              <item name="drafts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -374,24 +358,44 @@
       <option name="project" value="LOCAL" />
       <updated>1541261765451</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="edit course_project no.2">
+      <created>1541264637112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541264637112</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit course_project no.3">
+      <created>1541264659907</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541264659907</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit course_project no.4">
+      <created>1541264716446</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541264716446</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" visible="true" weight="0.17563528" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" weight="0.17563528" />
       <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.20467421" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="0" y="23" width="1366" height="705" id="Run" order="2" sideWeight="0.49858356" type="WINDOWED" visible="true" weight="0.28743544" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.14802065" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Run" order="2" sideWeight="0.49858356" type="WINDOWED" weight="0.28743544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.27349228" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.49569708" />
       <window_info anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="8" sideWeight="0.49850523" weight="0.07917384" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50149477" side_tool="true" weight="0.32874355" />
       <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Python Console" order="10" type="WINDOWED" weight="0.32013768" />
@@ -399,6 +403,32 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -409,19 +439,22 @@
     <MESSAGE value="add input and output files" />
     <MESSAGE value="add course_project" />
     <MESSAGE value="edit course_project no.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit course_project no.1" />
+    <MESSAGE value="edit course_project no.2" />
+    <MESSAGE value="edit course_project no.3" />
+    <MESSAGE value="edit course_project no.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit course_project no.4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/course_project/arxiv_crawler.py</url>
-          <line>125</line>
+          <line>128</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/course_project/arxiv_crawler.py</url>
-          <line>108</line>
+          <line>111</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
@@ -560,6 +593,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/course_project/url.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1040">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#99#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/class6to7/IV_get_url_info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -567,20 +613,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="e#99#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="107">
+          <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
         </state>
       </provider>
     </entry>
