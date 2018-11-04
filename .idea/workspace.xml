@@ -86,14 +86,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="687" />
-          <entry key="py" value="1413" />
-          <entry key="txt" value="87" />
+          <entry key="py" value="1496" />
+          <entry key="txt" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="87" />
-          <entry key="Python" value="2100" />
+          <entry key="PLAIN_TEXT" value="117" />
+          <entry key="Python" value="2183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -122,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+            <state relative-caret-position="356">
+              <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
               <folding>
                 <element signature="e#147#156#0" expanded="true" />
               </folding>
@@ -434,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541336647271</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="arxiv_crawler代码注释完成度80%，并修复arxiv_description函数bug">
+      <created>1541337619420</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541337619420</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -502,14 +509,15 @@
     <MESSAGE value="edit random_people.py 2018/11/4" />
     <MESSAGE value="arxiv_crawler代码执行速度优化" />
     <MESSAGE value="arxiv_crawler代码注释完成度50%" />
-    <option name="LAST_COMMIT_MESSAGE" value="arxiv_crawler代码注释完成度50%" />
+    <MESSAGE value="arxiv_crawler代码注释完成度80%，并修复arxiv_description函数bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="arxiv_crawler代码注释完成度80%，并修复arxiv_description函数bug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/course_project/arxiv_crawler.py</url>
-          <line>147</line>
+          <line>153</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -687,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        <state relative-caret-position="356">
+          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
           <folding>
             <element signature="e#147#156#0" expanded="true" />
           </folding>

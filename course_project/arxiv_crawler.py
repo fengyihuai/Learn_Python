@@ -131,21 +131,27 @@ def main():
     uid = ["electroencephalogram", "event-related potential"]
     # 爬取出第一个检索关键词的前100篇（已按最新发表时间排序）文献期刊地址，
     # 并打印输出前50篇
-    k1s2_adurl = key_size_search(uid[0], 100, printed=True, print_num=50)
+    k1_adurl = key_size_search(uid[0], 100, printed=True, print_num=50)
     # 将文献期刊地址保存
-    url_save_txt(uid[0], k1s2_adurl)
-    # 爬取出第一个检索关键词的前100篇（已按最新发表时间排序）文献期刊地址，
-    # 并打印输出前50篇
-    k2s2_adurl = key_size_search(uid[1], 100)
-    url_save_txt(uid[1], k2s2_adurl)
+    url_save_txt(uid[0], k1_adurl)
 
+    # 爬取出第2个检索关键词的前100篇（已按最新发表时间排序）文献期刊地址
+    k2_adurl = key_size_search(uid[1], 100)
+    # 将文献期刊地址保存
+    url_save_txt(uid[1], k2_adurl)
+
+    # 找出两个文献期刊地址的txt存储文件的相同地址
     same_urllist = read_match_urltxt("electroencephalogram.txt", "event-related potential.txt")
+    # 打印相同地址
     print("the same urls are:\n{}".format('\n'.join(same_urllist)))
+
     # 问题1代码结束执行的结束时间
     end = time.clock()
+
+
     # 问题2：前三篇关键词1（uid[0]）的文献描述项的打印输出
     for i in range(3):
-        arxiv_description(k1s2_adurl[i])
+        arxiv_description(k1_adurl[i])
 
     # 输出问题1涉及功能代码运行时间
     print("----------------------------------------------------")
