@@ -18,6 +18,7 @@ import time
 
 # 基于arxiv网站的关键词与显示检索条目可控函数，最终返回对应的
 # 文献期刊地址并可将其网址输出到命令行（可选项）
+# 注：默认按最新发表时间排序
 def key_size_search(keyword, size, printed=False, print_num=0):
     try:
         # arxiv网站的高级检索网站地址
@@ -59,6 +60,7 @@ def key_size_search(keyword, size, printed=False, print_num=0):
     except:
         return ""
 
+# 文献期刊地址列表的txt文件保存
 def url_save_txt(file_name, url_list):
     # 以“写”方式打开文件"xxx.txt",xxx为检索词，没有就新建
     f = open(file_name+'.txt', 'w')
@@ -69,6 +71,7 @@ def url_save_txt(file_name, url_list):
     f.close()
     print("%s.txt file is saved\n" % (file_name + ".txt"))
 
+# 两个存储url地址的文献期刊地址相同项的找寻
 def read_match_urltxt(file1, file2):
     # 创建两个空列表
     url_list1 = equalurl_list = list()
@@ -84,6 +87,7 @@ def read_match_urltxt(file1, file2):
     # 返回相同网址列表
     return equalurl_list
 
+# 文献的各个描述项的打印输出
 def arxiv_description(url):
     try:
         # 发送请求，尝试获取对应url网址（文献期刊地址）的
@@ -105,36 +109,41 @@ def arxiv_description(url):
                          "Abstract", "PDF-link"]
         # 文献信息空列表
         info = list()
-        # 用正则表达式从网页从
+        # 用正则表达式从网页匹配出各个描述项的内容，其中对re库的某个特殊bug
+        # 进行了修正-Abstract（无法识别网页一串字符中的\n），以及构造完整网
+        # 址-PDF-link
         for i in range(len(pattern_list) - 2):
             info.append(re.findall(pattern_list[i], r.text)[0])
         info.append(re.findall(pattern_list[i + 1], r.text.replace('\n', '*'))[0])
         info.append(url + re.findall(pattern_list[i + 2], r.text)[0])
-
+        # 打印文献信息
         print("\n>>>Article address:", url)
         for i in range(len(pattern_list)):
             print(pattern_lable[i], ':', info[i])
 
     except:
-        return ""
+        print("error: check the code in arxiv_description!!!")
 
 def main():
-
+    # 问题1代码执行的开始时间
     start = time.clock()
-
+    # 给定专业关键词
     uid = ["electroencephalogram", "event-related potential"]
-
+    # 爬取出第一个检索关键词的前100篇（已按最新发表时间排序）文献期刊地址，
+    # 并打印输出前50篇
     k1s2_adurl = key_size_search(uid[0], 100, printed=True, print_num=50)
+    # 将文献期刊地址保存
     url_save_txt(uid[0], k1s2_adurl)
-
+    # 爬取出第一个检索关键词的前100篇（已按最新发表时间排序）文献期刊地址，
+    # 并打印输出前50篇
     k2s2_adurl = key_size_search(uid[1], 100)
     url_save_txt(uid[1], k2s2_adurl)
 
     same_urllist = read_match_urltxt("electroencephalogram.txt", "event-related potential.txt")
     print("the same urls are:\n{}".format('\n'.join(same_urllist)))
-
+    # 问题1代码结束执行的结束时间
     end = time.clock()
-
+    # 问题2：前三篇关键词1（uid[0]）的文献描述项的打印输出
     for i in range(3):
         arxiv_description(k1s2_adurl[i])
 
