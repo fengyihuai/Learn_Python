@@ -3,7 +3,7 @@ import random
 
 # work_num = input("本次作业题数：")
 work_num = 4
-names = ['邹文斌', '李丹阳', '黄诗娴', '刘忠强']
+names = ['zou', 'li', 'huang', 'liu']
 
 work_assign = names
 # names sequence is permuted pseudo_randomly
