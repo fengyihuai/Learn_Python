@@ -81,12 +81,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
+        <entry file="file://$PROJECT_DIR$/random_people.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="90" column="20" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+            <state relative-caret-position="206">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -130,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,33 +140,18 @@
             <path>
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class6to7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class6to7" type="462c0819:PsiDirectoryNode" />
-              <item name="drafts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class8to9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="course_project" type="462c0819:PsiDirectoryNode" />
+              <item name="class1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -383,9 +367,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" weight="0.17563528" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49929875" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.50070125" side_tool="true" weight="0.20467421" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -396,7 +380,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.49569708" />
-      <window_info anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="8" sideWeight="0.49850523" weight="0.07917384" />
+      <window_info active="true" anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="8" sideWeight="0.49850523" visible="true" weight="0.22562674" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50149477" side_tool="true" weight="0.32874355" />
       <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Python Console" order="10" type="WINDOWED" weight="0.32013768" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -491,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/random_people.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="22" />
+        <state relative-caret-position="206">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -593,16 +577,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course_project/url.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/course_project/url.txt" />
     <entry file="file://$PROJECT_DIR$/class8to9/pictures_lxml.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1040">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#99#114#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
