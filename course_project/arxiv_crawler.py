@@ -69,19 +69,27 @@ def url_save_txt(file_name, url_list):
     f.close()
     print("%s.txt file is saved\n" % (file_name + ".txt"))
 
-def read_match_urltxt(file_name1, file_name2):
+def read_match_urltxt(file1, file2):
+    # 创建两个空列表
     url_list1 = equalurl_list = list()
-    url_list1 = open(file_name1, 'r').read().split()
-    url_str2 = open(file_name2, 'r').read()
-
-    for i in range(len(url_list1)):
-        if re.findall(r'{}'.format(url_list1[i]), url_str2):
-            equalurl_list.append(url_list1[i])
+    # 读出文件1的列表，并按行分割为列表的每个元素
+    url_list1 = open(file1, 'r').read().split()
+    # 读出文件2，得到文件2内的网址字符串
+    url_str2 = open(file2, 'r').read()
+    # 网址字符串2中的相同网址，存入相同网址列表中
+    # 由用网址列表1的各个元素构造正则表达式，查找
+    for i_url in url_list1:
+        if re.findall(r'{}'.format(i_url), url_str2):
+            equalurl_list.append(i_url)
+    # 返回相同网址列表
     return equalurl_list
 
 def arxiv_description(url):
     try:
+        # 发送请求，尝试获取对应url网址（文献期刊地址）的
+        # 网页，返回Response对象
         r = requests.get(url)
+        # 各个文献描述项的正则表达式
         pattern_list = [r"Title:</span>(.*)</h1>",
                         r"Authors:</span><a.*>(.*)</a>",
                         r"class=\"dateline\">\((.*)\)</div>",
@@ -91,11 +99,13 @@ def arxiv_description(url):
                         r"arXiv:[\w\.]+</a>.*</span>",
                         r"Abstract:</span>(.*)</blockquote>",
                         r"<a href=\"(.*)\"\saccesskey=\"f\""]
+        # 各个文献描述项的标记（名称）
         pattern_lable = ["Title", "Authors", "Dateline", "Comments",
                          "Subjects", "Cite as", "or Cite as",
                          "Abstract", "PDF-link"]
-
+        # 文献信息空列表
         info = list()
+        # 用正则表达式从网页从
         for i in range(len(pattern_list) - 2):
             info.append(re.findall(pattern_list[i], r.text)[0])
         info.append(re.findall(pattern_list[i + 1], r.text.replace('\n', '*'))[0])

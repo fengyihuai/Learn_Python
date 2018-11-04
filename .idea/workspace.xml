@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="edit random_people.py 2018/11/4">
-      <change afterPath="$PROJECT_DIR$/course_project/xml version.docx" afterDir="false" />
+    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course_project/arxiv_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_project/arxiv_crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_project/electroencephalogram.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course_project/electroencephalogram.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,14 +86,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="687" />
-          <entry key="py" value="799" />
-          <entry key="txt" value="52" />
+          <entry key="py" value="1023" />
+          <entry key="txt" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Python" value="1486" />
+          <entry key="PLAIN_TEXT" value="77" />
+          <entry key="Python" value="1710" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -124,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+            <state relative-caret-position="59">
+              <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
               <folding>
                 <element signature="e#147#156#0" expanded="true" />
               </folding>
@@ -422,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541316546206</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="arxiv_crawler代码执行速度优化">
+      <created>1541335909511</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1541335909511</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -488,14 +493,15 @@
     <MESSAGE value="edit course_project no.4" />
     <MESSAGE value="add .idea" />
     <MESSAGE value="edit random_people.py 2018/11/4" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit random_people.py 2018/11/4" />
+    <MESSAGE value="arxiv_crawler代码执行速度优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="arxiv_crawler代码执行速度优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/course_project/arxiv_crawler.py</url>
-          <line>128</line>
+          <line>138</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -673,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        <state relative-caret-position="59">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
           <folding>
             <element signature="e#147#156#0" expanded="true" />
           </folding>
