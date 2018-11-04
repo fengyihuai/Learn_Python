@@ -3,6 +3,7 @@ import random
 
 # work_num = input("本次作业题数：")
 work_num = 4
+# names = [
 names = ['zou', 'li', 'huang', 'liu']
 
 work_assign = names

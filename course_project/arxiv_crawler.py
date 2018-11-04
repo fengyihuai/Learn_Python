@@ -111,37 +111,5 @@ def main():
     for i in range(3):
         arxiv_description(k1s2_adurl[i])
 
-    # r = requests.get(k1s2_adurl[0])
-    # pattern_list = [r"Title:</span>(.*)</h1>",
-    #                 r"Authors:</span><a.*>(.*)</a>",
-    #                 r"class=\"dateline\">\((.*)\)</div>",
-    #                 r"<td class=\"tablecell comments mathjax\">(.*)</td>",
-    #                 r"<span class=\"primary-subject\">(.*)</span>(.*)</td>",
-    #                 r"arXiv:[\w\.]+</a>.*</td>",
-    #                 r"arXiv:[\w\.]+</a>.*</span>",
-    #                 r"Abstract:</span>(.*)</blockquote>",
-    #                 r"<a href=\"(.*)\"\saccesskey=\"f\""]
-    # pattern_lable = ["Title", "Authors", "Dateline", "Comments",
-    #                  "Subjects", "Cite as", "or Cite as",
-    #                  "Abstract", "PDF-link"]
-    #
-    # info = list()
-    # for i in range(len(pattern_list)-2):
-    #     info.append(re.findall(pattern_list[i], r.text)[0])
-    # info.append(re.findall(pattern_list[i+1], r.text.replace('\n', '*'))[0])
-    # info.append(k1s2_adurl[0] + re.findall(pattern_list[i+2], r.text)[0])
-    # for i in range(len(pattern_list)):
-    #     print(pattern_lable[i], ':' , info[i])
-
-    # title = re.findall(r"Title:</span>(.*)</h1>", r.text)[0]
-    # authors = re.findall(r"Authors:</span><a.*>(.*)</a>", r.text)[0]
-    # dateline = re.findall(r"class=\"dateline\">\((.*)\)</div>", r.text)[0]
-    # abstract = re.findall(r"Abstract:</span>(.*)</blockquote>", r.text.replace('\n', '*'))[0]
-    # comments = re.findall(r"<td class=\"tablecell comments mathjax\">(.*)</td>", r.text)
-    # subjects = re.findall(r"<span class=\"primary-subject\">(.*)</span>(.*)</td>", r.text)[0]
-    # pdf_link = k1s2_adurl[0] + re.findall(r"<a href=\"(.*)\"\saccesskey=\"f\"", r.text)[0]
-
-    # arxiv_description(k1s2_adurl[0])
-
 if __name__ == '__main__':
     main()
