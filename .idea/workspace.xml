@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="add .idea">
+    <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="edit random_people.py 2018/11/4">
+      <change afterPath="$PROJECT_DIR$/course_project/xml version.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course_project/arxiv_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/course_project/arxiv_crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_project/electroencephalogram.txt" beforeDir="false" afterPath="$PROJECT_DIR$/course_project/electroencephalogram.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,42 +87,48 @@
     <session id="-23167834">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="20" />
+          <entry key="Python Console" value="687" />
+          <entry key="py" value="799" />
+          <entry key="txt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="Python" value="1486" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="3" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_people.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="112" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="99">
+              <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+              <folding>
+                <element signature="e#147#156#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,6 +156,8 @@
         <option value="$PROJECT_DIR$/class1/II_bmi_cal.py" />
         <option value="$PROJECT_DIR$/class3/screenshots/turtle_feart.py" />
         <option value="$PROJECT_DIR$/class3/screenshots/turtle_heart.py" />
+        <option value="$PROJECT_DIR$/random_people.py" />
+        <option value="$PROJECT_DIR$/course_project/electroencephalogram.txt" />
         <option value="$PROJECT_DIR$/course_project/arxiv_crawler.py" />
       </list>
     </option>
@@ -174,11 +184,6 @@
             <path>
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
               <item name="course_project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -190,14 +195,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Learn_Python\course_project" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PythonLearing\Learn_Python\class3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python_Workspace\Learn_Python\course_project" />
+      <recent name="D:\Learn_Python\course_project" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.random_people">
+  <component name="RunManager" selected="Python.arxiv_crawler">
     <configuration name="III_star_print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Learn_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,8 +333,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.random_people" />
         <item itemvalue="Python.arxiv_crawler" />
+        <item itemvalue="Python.random_people" />
         <item itemvalue="Python.turtle_rose" />
         <item itemvalue="Python.turtle_heart" />
         <item itemvalue="Python.III_star_print" />
@@ -409,24 +415,32 @@
       <option name="project" value="LOCAL" />
       <updated>1541315314410</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="edit random_people.py 2018/11/4">
+      <created>1541316546206</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1541316546206</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972145" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4972145" visible="true" weight="0.2181303" />
       <window_info id="Structure" order="1" sideWeight="0.5027855" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Run" order="2" sideWeight="0.49858356" type="WINDOWED" weight="0.28743544" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" x="0" y="23" width="1436" height="837" id="Run" order="2" sideWeight="0.49858356" type="WINDOWED" visible="true" weight="0.2869081" />
+      <window_info active="true" anchor="bottom" x="0" y="23" width="1440" height="837" id="Debug" order="3" visible="true" weight="0.06128134" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.28412256" />
-      <window_info active="true" anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="8" sideWeight="0.49787536" visible="true" weight="0.17966574" />
+      <window_info anchor="bottom" x="0" y="23" width="1440" height="837" id="Terminal" order="8" sideWeight="0.49787536" weight="0.33147633" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50212467" side_tool="true" weight="0.39972144" />
       <window_info anchor="bottom" x="0" y="23" width="1366" height="705" id="Python Console" order="10" type="WINDOWED" weight="0.32013768" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -473,15 +487,21 @@
     <MESSAGE value="edit course_project no.3" />
     <MESSAGE value="edit course_project no.4" />
     <MESSAGE value="add .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="add .idea" />
+    <MESSAGE value="edit random_people.py 2018/11/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit random_people.py 2018/11/4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/course_project/arxiv_crawler.py</url>
-          <line>111</line>
+          <line>128</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/course_project/arxiv_crawler.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -512,13 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_people.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -634,10 +647,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/random_people.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/colorama/ansitowin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course_project/electroencephalogram.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="213" column="4" selection-start-line="213" selection-start-column="4" selection-end-line="213" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/course_project/arxiv_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="99">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+          <folding>
+            <element signature="e#147#156#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
