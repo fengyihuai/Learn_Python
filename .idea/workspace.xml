@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7dd9100-6297-4ec9-9e74-b17b34cf9eb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,12 +87,12 @@
           <entry key="Python Console" value="687" />
           <entry key="gitignore" value="13" />
           <entry key="py" value="1499" />
-          <entry key="txt" value="178" />
+          <entry key="txt" value="193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="191" />
+          <entry key="PLAIN_TEXT" value="206" />
           <entry key="Python" value="2186" />
         </counts>
       </usages-collector>
@@ -137,8 +136,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -196,11 +195,6 @@
             <path>
               <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learn_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="class3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -482,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541340122822</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="edit for vscode">
+      <created>1552890433433</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1552890433433</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -564,7 +565,8 @@
     <MESSAGE value="arxiv_crawler代码注释完成度100%" />
     <MESSAGE value="arxiv_crawler project finished" />
     <MESSAGE value="add screenshots in course_project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add screenshots in course_project" />
+    <MESSAGE value="edit for vscode" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit for vscode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -759,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
