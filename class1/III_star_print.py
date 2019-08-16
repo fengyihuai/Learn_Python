@@ -44,7 +44,7 @@ else:
 irow = 1
 list = [1, 3, 5, 3, 1]
 while irow < 6:
-    print('{0: ^5}'.format('*' * list[irow]))
+    print('{0: ^5}'.format('*' * list[irow-1]))
     irow += 1
 else:
     print('THe while loop is over.\n')
