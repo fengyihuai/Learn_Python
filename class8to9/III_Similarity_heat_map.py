@@ -31,6 +31,6 @@ def fileopen(f):
     return a
 
 if __name__ == '__main__':
-    a = fileopen('1.txt')
+    a = fileopen('class8to9\\1.txt')
     # plot heat map
-    plotfuc(a, a, '3.txt')
+    plotfuc(a, a, 'class8to9\\3.txt')
