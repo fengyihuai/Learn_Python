@@ -2,3 +2,4 @@
 __pytest__
 __pycache__
 .vscode
+**/.ipynb_checkpoints
